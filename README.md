@@ -8,7 +8,7 @@ CS + Data Science student at **UNC Chapel Hill** (graduating Dec 2026) building 
 - 💼 Previously: Software Engineer Intern at Wells Fargo (RAG assistant serving 100+ users) and Data Science Intern at SAS
 
 ## Featured project
-**[Finder](https://github.com/abelsaj2005/finder)**: two-stage multimodal photo search. CLIP + FAISS narrows 5,400+ photos to 10 candidates in ~20ms, then Claude Vision reranks to the top 3. Reranking lifted top-3 accuracy from ~60% to 85% on a 1,000-photo test set.
+**[Multimodal Photo Search](https://github.com/abelsaj2005/multimodal-photo-search)**: two-stage photo search over natural-language queries. CLIP + FAISS narrows 5,400+ photos to 10 candidates in ~20ms, then Claude Vision reranks to the top 3. Reranking lifted top-3 accuracy from ~60% to 85% on a 1,000-photo test set.
 
 ## Tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
